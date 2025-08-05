@@ -99,4 +99,4 @@ This data pipeline ensures that investment decisions are **based on accurate, ti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/bitcoin-data-pipeline.git
+  https://github.com/Dimpho-Maseko/BrickProject.git
